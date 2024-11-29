@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "description": "A thief enters dreams to plant an idea.",
+    "posterURL": "https://via.placeholder.com/150",
+    "rating": 8.8
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "description": "Batman battles the Joker in Gotham City.",
+    "posterURL": "https://via.placeholder.com/150",
+    "rating": 9
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival.",
+    "posterURL": "https://via.placeholder.com/150",
+    "rating": 8.6
+  },
+  {
+    "id": 4,
+    "title": "Parasite",
+    "description": "Greed and class discrimination threaten the symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "posterURL": "https://via.placeholder.com/150",
+    "rating": 8.6
+  },
+  {
+    "id": 5,
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "posterURL": "https://via.placeholder.com/150",
+    "rating": 9.3
+  },
+  {
+    "id": 6,
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "posterURL": "https://via.placeholder.com/150",
+    "rating": 9.2
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "posterURL": "https://via.placeholder.com/150",
+    "rating": 8.9
+  },
+  {
+    "id": 8,
+    "title": "Avengers: Endgame",
+    "description": "After the devastating events of Infinity War, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "posterURL": "https://via.placeholder.com/150",
+    "rating": 8.4
+  },
+  {
+    "id": 9,
+    "title": "Joker",
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck embarks on a downward spiral of social revolution and bloody crime.",
+    "posterURL": "https://via.placeholder.com/150",
+    "rating": 8.5
+  },
+  {
+    "title": "deadpool",
+    "posterUrl": "hdoadpi",
+    "description": "amncczùlc,zmcnpz",
+    "rating": "9.2",
+    "id": 10
+  }
+]
